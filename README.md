@@ -1,7 +1,7 @@
 # RWID TypeScript
 
 [![License](https://badgen.net/github/license/arafa16/expense-tracker "License")](LICENSE.md)
-[![Release](https://badgen.net/github/license/arafa16/expense-tracker "Release")](https://github.com/arafa16/expense-tracker/releases)
+[![Release](https://badgen.net/github/release/arafa16/expense-tracker "Release")](https://github.com/arafa16/expense-tracker/releases)
 
 Learn React Native Expo.
 
